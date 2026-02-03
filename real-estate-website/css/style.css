@@ -3,7 +3,7 @@ body {
   background: #f5f7fa;
 }
 
-/* Hero Section */
+/* Dream Section */
 .dream {
   background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),
   url('../images/house1.jpg') center/cover no-repeat;
@@ -19,11 +19,11 @@ body {
   object-fit: cover;
 }
 
-.property-details{
+/* .property-details{
   margin: 20px auto;
   text-align: center;
   gap: 10px;
-}
+} */
 
 /* Floating Buttons */
 .call-btn,
@@ -111,3 +111,4 @@ body {
   margin: 0;
   font-size: 14px;
 }
+
